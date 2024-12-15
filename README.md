@@ -20,15 +20,15 @@ This project is a **Flask-based web application** designed to perform **sentimen
 
 ### **Positive Result Example**
 
-![Pozitive Page](fashalayzer/image/duygu1.jpg)
+![Pozitive Page](image/duygu1.jpg)
 
 ### **Negative Result Example**
 
-![Negative Result](fashalayzer/image/duygu2.jpg)
+![Negative Result](image/duygu2.jpg)
 
 ### **Neutral Result Example**
 
-![Neutral Result](fashalayzer/image/duygu1.jpg)
+![Neutral Result](image/duygu3.jpg)
 
 ---
 
